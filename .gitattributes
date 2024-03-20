@@ -1,2 +1,1 @@
-*.twbx linguist-language=twbx
-
+*.* linguist-language=Swift
