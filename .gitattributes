@@ -1,1 +1,2 @@
-*.* linguist-language=twbx
+twbx.cmd linguist-generated=true
+twbx linguist-generated=true
