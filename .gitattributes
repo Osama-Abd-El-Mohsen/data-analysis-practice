@@ -1,2 +1,4 @@
 * linguist-vendored
 *.twbx linguist-detectable=true
+*.twbx linguist-language=python
+
