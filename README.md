@@ -12,5 +12,6 @@
 
  - ### <img  src="https://github.com/Osama-Abd-El-Mohsen/data-analysis-practice/assets/62304741/6bbb775c-232e-4351-b603-c4d990e68e30" alt="Download Image" height="20" border="0" /> Movies Scraping Script 
 
+    ### Output :
 
-![image](https://github.com/Osama-Abd-El-Mohsen/data-analysis-practice/assets/62304741/8a184ef3-5c1f-4a5d-8f69-a39800160b40)
+    ![image](https://github.com/Osama-Abd-El-Mohsen/data-analysis-practice/assets/62304741/8a184ef3-5c1f-4a5d-8f69-a39800160b40)
