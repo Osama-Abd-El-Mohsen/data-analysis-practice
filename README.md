@@ -1,4 +1,4 @@
-﻿# data-analysis-practice
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=31F76A&center=true&vCenter=true&random=false&width=1000&lines=Data+analysis+practice;Web+Scraping;Dashboards)](https://git.io/typing-svg)
 
 > # Dashboards
 
